@@ -1,4 +1,4 @@
-rom sqlalchemy import create_engine
+from sqlalchemy import create_engine
 import urllib.parse
 import pandas as pd
  
